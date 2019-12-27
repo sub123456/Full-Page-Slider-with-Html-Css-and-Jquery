@@ -274,7 +274,7 @@
 		   
 		   if(change < touch){
 			   
-			  $('#page3').css({'left':'-100%'}); 
+			  $('#page3').css({'left':'100%'}); 
 			   
 			   $('#page2').css({
 			  
@@ -340,7 +340,7 @@
 		   
 		   if(change < touch){
 			   
-			  $('#page2').css({'left':'-100%'}); 
+			  $('#page2').css({'left':'100%'}); 
 			   
 			   $('#page1').css({
 			  
